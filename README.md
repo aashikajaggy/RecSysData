@@ -12,4 +12,4 @@ The files in this folder contain the following:
 
 The objective of the ethical recommendation system is to include underrepresented items/users, as well as to diversify recommended items and prevent the echo chamber effect.
 
-Note that this repository includes only the preliminary data collection for the model. 
+
